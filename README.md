@@ -11,8 +11,8 @@
 - ploting three images original,brightness adjusted,gaussian blur
 - plotting a predicted and respective answer of testing models
 # output gained
--Accuracy 28.12% 
--wrong ouput redicted beacause of the low quality of training data, it should be in low quality else my system will not able to compute
+- Accuracy 28.12% 
+- wrong ouput redicted beacause of the low quality of training data, it should be in low quality else my system will not able to compute
 # Requirements
--pickle,numpy,cv2,os,sklearn.svm,sklearn.metrics,sklearn.model_selection,matplotlib.pyplot
--need to place cifar-10 python file in the project folder
+- pickle,numpy,cv2,os,sklearn.svm,sklearn.metrics,sklearn.model_selection,matplotlib.pyplot
+- need to place cifar-10 python file in the project folder
